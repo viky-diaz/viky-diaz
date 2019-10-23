@@ -10,5 +10,20 @@ ul li{
     font-size: 16px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: cadetblue;
+    padding: 10px;
+}
+
+p{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    color: orange;
+    margin-top: 0%;
+}
+
+img{
+    position: relative;
+    top: 0;
+    left: 50px;
 
 }
